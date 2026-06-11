@@ -85,7 +85,4 @@ Activar OCR
 6. Descargar catálogo convertido.
 
 ---
-
-## Licencia
-
-MIT
+      
