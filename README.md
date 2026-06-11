@@ -67,7 +67,6 @@ streamlit run app.py
 ---
 
 
-5. Deploy.
 
 ---
 
